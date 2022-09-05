@@ -1,4 +1,4 @@
-# guh
+# some boring introduction to this fucking repo
 
 hello!!!!
 
