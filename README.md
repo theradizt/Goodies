@@ -1,2 +1,7 @@
 # guh
-i just made this repo at 3pm and im tired i'll post things here later
+
+hello!!!!
+
+this is where i post stuff here
+
+theres nothing currently cuz i made this like 2 months ago or i think
