@@ -1,4 +1,4 @@
-# some boring introduction to this fucking repo
+# something something here
 
 hello!!!!
 
