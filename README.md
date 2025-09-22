@@ -1,5 +1,5 @@
 This repo contains various random stuff that you (yes, you) can download!
-: D
+<br>: D
 
 Stuff posted on this repo can be the following:
 - .FLA files
@@ -8,4 +8,4 @@ Stuff posted on this repo can be the following:
 - Many more
 
 All of them have their own folders for what projects they're used for!
-Enjoy what's been added here!
+<br>Enjoy what's been added here!
