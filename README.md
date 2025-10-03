@@ -1,4 +1,4 @@
-### This repo contains various random stuff that you (yes, you) can download! : D
+### This repo contains various random stuff that you (yes, you) can download!
 
 ---
 
@@ -10,5 +10,4 @@ Stuff posted on this repo can be the following:
 
 ---
 
-All of them have their own folders for what projects they're used for!
-<br>Enjoy what's been added here!
+All of them have their own folders for what projects they're used for.<br>Enjoy what's been added here!
