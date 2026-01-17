@@ -8,6 +8,10 @@ Stuff posted on this repo can be the following:
 - Audio files
 - Many more
 
+They are all listed under a folder where you can use them.<br />
+> (e.g. the FNF folder has all my sprites, chromatic scales, and FLPS that you can put in the game)
+
 ---
 
-All of them have their own folders for what projects they're used for.<br>Enjoy what's been added here!
+Enjoy what's been added here!
+: D
